@@ -1,0 +1,31 @@
+{
+  "name": "artinova",
+  "version": "1.0.0",
+  "description": "Generate landing page heroes, logos, and marketing assets from Cursor via ArtiNova MCP.",
+  "author": "ArtiNova <support@artinova.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtiNovaAI/cursor-plugin.git"
+  },
+  "homepage": "https://artinova.ai/developers/cursor",
+  "keywords": [
+    "cursor",
+    "mcp",
+    "artinova",
+    "marketing",
+    "logo",
+    "hero",
+    "saas"
+  ],
+  "files": [
+    ".cursor-plugin",
+    "assets",
+    "commands",
+    "CHANGELOG.md",
+    "LICENSE",
+    "mcp.json",
+    "README.md",
+    "skills"
+  ]
+}

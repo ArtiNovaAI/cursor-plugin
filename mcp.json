@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "artinova": {
+      "type": "http",
+      "url": "https://artinova.ai/api/mcp/v1",
+      "headers": {
+        "Authorization": "Bearer ${env:ARTINOVA_API_KEY}",
+        "x-artinova-source": "cursor"
+      }
+    }
+  }
+}
